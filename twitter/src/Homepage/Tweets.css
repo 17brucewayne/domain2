@@ -1,0 +1,21 @@
+.Tweets{
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+    border-bottom: 1px solid grey;
+}
+.username{
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+  
+.avatar{
+    display: flex;
+   
+}
+.tweet{
+    margin:0.5rem;
+}
+.date{
+    margin: 0.5rem;
+}

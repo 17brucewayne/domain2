@@ -1,0 +1,41 @@
+.background{
+    
+    width: 95%;
+    height: 35vh;
+    margin: 0.5rem auto;
+    border-radius: 1rem;
+    background-color: #1297d4
+    
+}
+.namebox{
+    display: flex;
+    
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.username{
+    margin-left: 1rem;
+}
+.country{
+    margin-left: 4rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+.homebutton{
+    width: 9rem !important;
+    max-width: 18vw !important;
+    
+    background-color: #1297d4 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 50px !important;
+    margin-top: 3rem !important;
+    margin-left: 16.5rem !important;
+    
+}
+
+
+

@@ -1,0 +1,40 @@
+.leftbody{
+    border-right: 1px solid grey;
+    width: 33vw;
+    float: left;
+    height: 100vh;
+    position: fixed;
+   
+}
+section{
+    width: auto;
+    height: auto;
+   
+    margin-left: 5rem;
+}
+.elements{
+    
+   
+    margin: 5rem;
+}
+.elements:hover{
+   
+    color: #1297d4;
+    
+    cursor: pointer;
+}
+.tweetbutton {
+    
+    width:20rem !important;
+    max-width: 18vw !important;
+    
+    background-color: #1297d4  !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 50px !important;
+    margin-top: 3rem !important;
+   
+  }

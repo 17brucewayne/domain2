@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: #1297d4;
+} */
+.form{
+    width: 30vw;
+    background-color:rgb(206, 192, 192);
+    margin: 10% auto;
+    border-radius: 2rem;
+}
+.form>h3{
+    text-align: center;
+}
+.input{
+    width:70%;
+    margin-left: 1rem;
+}
+.button{
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+}
+
+
+
+   
